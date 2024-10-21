@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **nothing rn**
 
-- 🌱 I’m currently learning **Kurs Tworzenia Stron WWW cz. II - SASS, JS, Bootstrap**
+- 🌱 I’m currently learning **Kurs Tworzenia Stron WWW cz. 3**
 
 - 📫 How to reach me **Discord: @exmanek**
 
