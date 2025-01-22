@@ -9,6 +9,6 @@
 - 📫 How to reach me **Discord: @exmanek**
   
 <div align="center">
-  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImKunYoung&layout=compact&langs_count=10"/></a>&nbsp
+  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exmanek&layout=compact&langs_count=10"/></a>&nbsp
 </div>
 
